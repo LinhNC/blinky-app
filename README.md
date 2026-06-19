@@ -13,7 +13,7 @@
     <a href="#pricing">Pricing</a>
   </p>
 
-  <img src="public/search-launch-screenshot.png" alt="Blinky Quick Panel — search and launch anything with a single hotkey on macOS, Windows, and Linux" width="720" />
+  <img src="public/shared.png" alt="Blinky Quick Panel — search and launch anything with a single hotkey on macOS, Windows, and Linux" width="720" />
 </div>
 
 ---
@@ -31,7 +31,7 @@ Blinks are the core primitive: five composable types (snippets, files, folders, 
 ## Press Anytime. Access Everything.
 
 <div align="center">
-  <img src="public/dark-quickpanel-screenshot.png" alt="Blinky dark Quick Panel — access snippets, files, URLs, apps, and workflows instantly from any app" width="720" />
+  <img src="public/search-launch-screenshot.png" alt="Blinky dark Quick Panel — access snippets, files, URLs, apps, and workflows instantly from any app" width="720" />
 </div>
 
 One hotkey. Every app. Any moment.
