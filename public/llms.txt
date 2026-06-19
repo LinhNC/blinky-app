@@ -1,0 +1,22 @@
+# Blinky
+
+> Blinky is a keyboard-first desktop utility for quickly accessing snippets, files, folders, URLs, and apps.
+
+## Main Pages
+- Home: https://blinky.onez.app/
+- Search & Launch feature: https://blinky.onez.app/features/search-launch
+- Open Library feature: https://blinky.onez.app/features/open-library
+- Collections feature: https://blinky.onez.app/features/collections
+- Dark Mode & Themes feature: https://blinky.onez.app/features/dark-mode-themes
+
+## Product Summary
+- Launch Blinky from any app with one hotkey.
+- Fuzzy search across all saved items.
+- Organize content with collections and metadata.
+- Customize appearance with dark mode and accent themes.
+
+## Contact
+- Email: hi@onez.app
+
+## Extended Index
+- Full index: https://blinky.onez.app/llms-full.txt
