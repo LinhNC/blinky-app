@@ -7,7 +7,7 @@
   Instantly search your snippets, files, folders, URLs, apps, and workflows — from any application, without ever leaving the keyboard.</p>
 
   <p>
-    <a href="https://blinky.onez.app/download">Download Free</a> ·
+    <a href="https://blinky.onez.app#download">Download Free</a> ·
     <a href="https://blinky.onez.app">Website</a> ·
     <a href="#features">Features</a> ·
     <a href="#pricing">Pricing</a>
@@ -119,7 +119,7 @@ Blinky is for anyone who spends hours at a keyboard and wants to move faster:
 
 ## Getting Started
 
-1. [Download Blinky](https://blinky.onez.app/download) — free, no credit card required
+1. [Download Blinky](https://blinky.onez.app#download) — free, no credit card required
 2. Install and launch — Blinky lives in your menu bar / system tray
 3. Press `⌘⇧P` (macOS) or `Ctrl+Alt+P` (Windows/Linux)
 4. Create your first Blink and add it to a Collection
@@ -136,7 +136,7 @@ Blinky is for anyone who spends hours at a keyboard and wants to move faster:
 ## Links
 
 - **Website:** [blinky.app](https://blinky.onez.app)
-- **Download:** [blinky.app/download](https://blinky.onez.app/download)
+- **Download:** [blinky.app/download](https://blinky.onez.app#download)
 - **Support:** hi@onez.app
 - **Features:** [Collections](https://blinky.onez.app/features/collections) · [Dark Mode & Themes](https://blinky.onez.app/features/dark-mode-themes) · [Open Library](https://blinky.onez.app/features/open-library) · [Search & Launch](https://blinky.onez.app/features/search-launch)
 
